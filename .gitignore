@@ -1,0 +1,14 @@
+target/
+*.iml
+*.MF
+.settings
+.project
+.classpath
+.springBeans
+.idea
+*.log
+.DS_Store
+configuration/
+p2/
+workspace/
+.artifacts
